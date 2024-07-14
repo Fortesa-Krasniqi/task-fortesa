@@ -1,0 +1,13 @@
+npm install mathjs
+# or
+yarn add mathjs
+
+npm install zustand
+# or
+yarn add zustand
+
+npm install react-query axios
+
+npm install react-query axios
+# or
+yarn add react-query axios
